@@ -57,8 +57,8 @@
 
 ## 완성된 모바일 청첩장
 
-- ![wic](https://github.com/oswaldeff/wedding-invitation-card/assets/66583879/cc8747d5-7617-490d-8677-d9d73d38e62e)
-- full: https://youtube.com/shorts/uXt39Wtb9QE
+- <img src="https://github.com/oswaldeff/wedding-invitation-card/assets/66583879/5a6f6e19-8ae0-4829-98d4-374161ebe88a" width="150" height="300">
+- full영상: https://youtube.com/shorts/uXt39Wtb9QE
 
 ## 청첩장 방문 추이(카카오 API 호출)
 
