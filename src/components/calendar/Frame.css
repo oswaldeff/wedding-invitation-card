@@ -1,0 +1,36 @@
+.frame {
+  width: 50%;
+  height: 50%;
+}
+
+.frame-img2 {
+  margin-top: 5%;
+  max-width: 80%;
+  height: auto;
+  background-color: #f5ecce;
+}
+
+.frame-img {
+  margin-top: 5%;
+  max-width: 80%;
+  height: auto;
+  background-image: linear-gradient(to right, #f1e2b0 0%, #ffc837 100%);
+}
+
+.frame-h1 {
+  position: relative;
+  font-size: 0.9rem;
+  font-family: "bold ChosunGs";
+  color: #FE9A2E;
+}
+
+.frame-h2 {
+  position: relative;
+  font-size: 0.9rem;
+  font-family: "MaruBuri-Regular";
+  font-weight: normal;
+}
+
+.frame-span {
+  color: #b40404;
+}

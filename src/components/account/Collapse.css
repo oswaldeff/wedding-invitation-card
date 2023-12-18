@@ -1,0 +1,30 @@
+.collapse-main-div {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.collapse-body-div {
+  margin-left: 0;
+  margin-right: 0;
+  height: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.collapse-h1 {
+  font-family: "MaruBuri-Regular";
+  position: relative;
+  font-size: 0.8rem;
+  color: black;
+  font-weight: normal;
+}

@@ -1,0 +1,13 @@
+.title {
+  display: flex;
+  position: relative;
+  top: 5%;
+  height: 16vh;
+  width: 100vw;
+  font-size: 1.3rem;
+  white-space: nowrap;
+  font-family: "MaruBuri-Regular";
+  overflow-x: hidden;
+  text-shadow: 0.2rem 0.1rem 0.01rem #fe9a2e;
+  background-color: #f5ecce;
+}

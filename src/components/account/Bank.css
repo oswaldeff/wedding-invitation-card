@@ -1,0 +1,30 @@
+.bank-table {
+  border-collapse: collapse;
+}
+
+.bank-tbody0 {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+  border-bottom: 0.1rem solid #f3e2a9;
+  border-bottom-style: dotted;
+  line-height: 2rem;
+}
+
+.bank-tbody1 {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+  border-bottom: 0.1rem solid #f3e2a9;
+  border-bottom-style: dotted;
+  line-height: 2rem;
+}
+
+.bank-tbody2 {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+  border-bottom: 0.1rem solid #f3e2a9;
+  border-bottom-style: dotted;
+  line-height: 2rem;
+}

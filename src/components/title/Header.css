@@ -1,0 +1,21 @@
+@keyframes anim {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.header-h1 {
+  font-weight: 400;
+  animation-name: anim;
+  animation-duration: 10s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+.header-span {
+  -webkit-text-stroke: 0.1rem #000;
+  color: transparent;
+  font-weight: 500;
+}

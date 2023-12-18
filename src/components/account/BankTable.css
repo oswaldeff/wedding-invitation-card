@@ -1,0 +1,44 @@
+
+  
+  .bank-tr-name {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+  }
+  
+  .bank-td-name {
+    font-family: "MaruBuri-Regular";
+    font-size: 0.7rem;
+    color: black;
+    float: left;
+  }
+  
+  .bank-td-accountnumber {
+    text-align: -webkit-right;
+    vertical-align: bottom;
+  }
+  
+  .bank-div-accountnumber {
+    font-family: "MaruBuri-Regular";
+    font-size: 0.7rem;
+    color: black;
+    float: left;
+  }
+  
+  .bank-img-accountnumber {
+    width: 1rem;
+    height: 1rem;
+  }
+  
+  .bank-td-br {
+    margin-top: 10%;
+    margin-bottom: 100%;
+  }
+  
+  .bank-td-bankname {
+    font-family: "MaruBuri-Regular";
+    font-size: 0.7rem;
+    color: black;
+    float: left;
+  }
+  

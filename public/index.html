@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/logoInvitationCard.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta property="og:url" content="https://도메인" />
+    <meta property="og:title" content="신랑이름♡신부이름" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="s3 url" />
+    <meta
+      property="og:description"
+      content="11월 26일(일) 오후 1시 20분 가천컨벤션센터"
+    />
+    <script
+      type="text/javascript"
+      src="//dapi.kakao.com/v2/maps/sdk.js?appkey=앱키"
+    ></script>
+    <script
+      src="https://t1.kakaocdn.net/kakao_js_sdk/2.4.0/kakao.min.js"
+      integrity="sha384-mXVrIX2T/Kszp6Z0aEWaA8Nm7J6/ZeWXbL8UpGRjKwWe56Srd/iyNmWMBhcItAjH"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      Kakao.init("api키");
+    </script>
+    <script type="text/javascript">
+      function navi() {
+        Kakao.Navi.start({
+          name: "주소",
+          x: "경도",
+          y: "위도",
+          coordType: "wgs84",
+        });
+      }
+
+      function link() {
+        Kakao.Share.sendDefault({
+          objectType: "location",
+          address: "주소",
+          addressTitle: "주소",
+          content: {
+            title: "신랑이름♡신부이름",
+            description: "년월일 시분 예식장 위치",
+            imageUrl: "s3 url",
+            link: {
+              mobileWebUrl: "https://도메인",
+              webUrl: "https://도메인",
+            },
+          },
+          buttons: [
+            {
+              title: "청첩장 보기",
+              link: {
+                mobileWebUrl: "https://도메인",
+                webUrl: "https://도메인",
+              },
+            },
+          ],
+          installTalk: true,
+        });
+      }
+    </script>
+    <title>신랑이름♡신부이름</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

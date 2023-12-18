@@ -1,0 +1,17 @@
+.intro-h1 {
+  position: relative;
+  font-size: 1.4rem;
+  font-family: "MaruBuri-Regular";
+  letter-spacing: 0.4rem;
+  text-align: center;
+  line-height: 3rem;
+}
+
+.intro-h2 {
+  position: relative;
+  font-size: 0.9rem;
+  font-family: "MaruBuri-Regular";
+  letter-spacing: 0rem;
+  line-height: 1.5rem;
+  font-weight: normal;
+}

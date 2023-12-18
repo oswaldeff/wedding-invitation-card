@@ -1,0 +1,56 @@
+.contact-h1 {
+  position: relative;
+  font-size: 0.8rem;
+  font-family: "MaruBuri-Regular";
+  font-weight: normal;
+}
+
+.contact-a1 {
+  position: relative;
+  font-size: 0.8rem;
+  text-decoration-line: none;
+  color: black;
+  margin-right: 11%;
+  font-weight: normal;
+}
+
+.contact-a2 {
+  position: relative;
+  font-size: 0.8rem;
+  text-decoration-line: none;
+  color: black;
+  margin-right: 7%;
+  font-weight: normal;
+}
+
+.contact-span {
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+.contact-img {
+  max-width: 8%;
+  height: auto;
+  margin-right: 3%;
+  vertical-align: bottom;
+}
+
+a:link {
+  -webkit-tap-highlight-color: transparent;
+  color: black;
+}
+
+a:visited {
+  -webkit-tap-highlight-color: transparent;
+  color: black;
+}
+
+a:hover {
+  -webkit-tap-highlight-color: transparent;
+  color: black;
+}
+
+a:active {
+  -webkit-tap-highlight-color: transparent;
+  color: silver;
+}

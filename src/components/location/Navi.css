@@ -1,0 +1,39 @@
+.navi-container{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    height: 60%;
+    align-items: center;
+}
+
+.navi-a {
+    width: 30%;
+    height: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    text-decoration-line: none;
+}
+
+.navi-img {
+    align-items: center;
+    text-align: center;
+    width: 2rem;
+    height: 2rem;
+}
+
+.navi-div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: "MaruBuri-Regular";
+    font-size: 0.7rem;
+    color: black;
+    line-height: 2.5rem;
+}

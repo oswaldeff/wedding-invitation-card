@@ -1,0 +1,18 @@
+.letter-div{
+  margin-top: 5%;
+}
+
+.letter-h1 {
+  position: relative;
+  font-size: 0.9rem;
+  font-family: "bold ChosunGs";
+  color: #FE9A2E;
+}
+
+.letter-h2 {
+  position: relative;
+  font-size: 0.8rem;
+  font-family: "MaruBuri-Regular";
+  line-height: 2rem;
+  font-weight: normal;
+}

@@ -1,0 +1,10 @@
+.calendar {
+  width: 100vw;
+  height: 32rem;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6vmin;
+  background-color: #f5ecce;
+}
